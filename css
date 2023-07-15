@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pig face picture</title>
+</head>
+<body>
+  <h1>PIG FACE</h1>
+  <link rel="stylesheet"href="styles.css">
+  <div class="container">
+ 
+     <div class="face">
+ 
+     <div class="hear">
+ 
+        <div class="hear1"></div>
+ 
+        <div class="hear2"></div>
+ 
+     </div>
+ 
+ 
+     <div class="eye">
+ 
+        <div class="eye1">
+            <div class="eye3"></div>
+        </div>
+ 
+        <div class="eye2">
+            <div class="eye4"></div>
+        </div>
+ 
+     </div>
+     <div class="noise">
+        <div class="noise1"></div>
+        <div class="noise2"></div>
+     </div>
+<h1>Hi, I am Miss Piggy</h1>
+</div>
+  </div> </body>
+</html>
